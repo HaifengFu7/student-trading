@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-@59&cz@n+n!zh)8z(&-9&=g&0ixrmd%j(1ps+#ci*ht0&gbpjn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
 
+ALLOWED_HOSTS = ["student-trading-dbtm.onrender.com", "localhost", "127.0.0.1"]
 
 # Application definition
 
